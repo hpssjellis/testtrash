@@ -1,0 +1,4 @@
+testtrash
+=========
+
+test gitignore
